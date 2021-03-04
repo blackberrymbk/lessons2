@@ -1,0 +1,121 @@
+* { margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container{
+    background-color: white;
+    width: 1402px;
+    margin: 50px auto;
+    box-shadow: 0 0 21px rgb(0 0 0 / 42)
+}
+header{
+    width: 440px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 102px;
+    padding-bottom: 66px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    padding-bottom: 22px;
+    
+}
+.underline {
+    width: 64px;
+    border-bottom:solid #FF8B38 2px;
+    margin: 0 auto;
+}
+
+header p {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    padding-top: 22px;
+}
+.content {
+    width: 100%
+}
+.desing{
+    display: inline-block;
+    width: 349px;
+    margin-left: 145px;
+}
+.pictDesing{
+    width: 75px;
+    height: 75px;
+    background-image: url('pictures/circle.png');
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+.crafted{
+    display: inline-block;
+    width: 349px;
+    margin-left: 33px;
+    
+}
+.pictCrafted {
+    width: 75px;
+    height: 75px;
+    background-image: url('pictures/circle.png');
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+.customize {
+
+    display: inline-block;
+    width: 349px;
+    margin-left: 33px;
+}
+.pictCustomize {
+    width: 75px;
+    height: 75px;
+    background-image: url('pictures/circle.png');
+    background-repeat: no-repeat;
+    margin: 0 auto;
+
+}
+.pictCustomize img{
+    padding-left: 28px;
+    padding-top: 20px; 
+}
+.pictDesing img{
+     padding-left: 28px;
+     padding-top: 20px; 
+    }
+.pictCrafted img {
+    padding-left: 20px;
+    padding-top: 25px;
+}
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 27px;
+    padding-bottom: 16px;
+}
+.desing p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 111px;
+}
+.crafted p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 111px;
+}
+
+.customize p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 111px;
+}
